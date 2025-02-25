@@ -2,29 +2,29 @@
 
 const portfolio = [
     {
-        name: '',
+        name: 'React Tic-Tac-Toe',
         img_path: '',
         gitHub_url: "",
         description: ''
     },
     {
-        name: '',
+        name: 'Directory Copier',
         img_path: '',
         gitHub_url: "",
         description: ''
     },
     {
-        name: '',
+        name: 'MooJournal',
         img_path: '',
         gitHub_url: "",
         description: ''
     },
     {
-        name: '',
+        name: 'Installasagna',
         img_path: '',
         gitHub_url: "",
         description: ''
-    },
+    },  
     {
         name: '',
         img_path: '',
