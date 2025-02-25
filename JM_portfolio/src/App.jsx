@@ -14,10 +14,10 @@ function App() {
   return (
     <>
       <Header />
-
+      
       <Routes>
         <Route path="/" element={<Home/>}></Route>
-        <Route path="/aboutMe" element={<AboutMe/>}></Route>
+        <Route path="/aboutMe" element={<AboutMe/>}>Hello</Route>
         <Route path="/portfolio" element={<Portfolio/>}></Route>
         <Route path="/contactMe" element={<ContactForm/>}></Route>
       </Routes>
