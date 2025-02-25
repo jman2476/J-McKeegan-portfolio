@@ -51,7 +51,7 @@ header {
 header>nav {
   padding: 50px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 h1 {
