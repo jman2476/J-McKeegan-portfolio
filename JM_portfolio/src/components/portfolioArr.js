@@ -3,40 +3,28 @@
 const portfolio = [
     {
         name: 'React Tic-Tac-Toe',
-        img_path: '',
-        gitHub_url: "",
-        description: ''
+        img_path: '../../public/vite.svg',
+        gitHub_url: "https://github.com/jman2476/react_tic-tac-toe",
+        description: 'React Tic-Tac-Toe'
     },
     {
         name: 'Directory Copier',
-        img_path: '',
-        gitHub_url: "",
-        description: ''
+        img_path: '../../public/vite.svg',
+        gitHub_url: "https://github.com/jman2476/directory_copier",
+        description: 'Copies directories'
     },
     {
         name: 'MooJournal',
-        img_path: '',
-        gitHub_url: "",
-        description: ''
+        img_path: '../../public/vite.svg',
+        gitHub_url: "https://github.com/jman2476/Moo-Journal",
+        description: 'Mooo'
     },
     {
-        name: 'Installasagna',
-        img_path: '',
-        gitHub_url: "",
-        description: ''
-    },  
-    {
-        name: '',
-        img_path: '',
-        gitHub_url: "",
-        description: ''
-    },
-    {
-        name: '',
-        img_path: '',
-        gitHub_url: "",
-        description: ''
-    },
+        name: 'InstalLasagna',
+        img_path: '../../public/vite.svg',
+        gitHub_url: "https://github.com/jman2476/instalLasagna",
+        description: 'Lasagna'
+    }
 ]
 
 export default portfolio
