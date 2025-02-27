@@ -19,7 +19,9 @@
     - Add picture of myself
     - Add pictures of other things I've made
     - Add link to resume
+        - and page listing ALLLLLL of my skills 
     - Add sass
     - Add games
     - Add lightweight backend?
+    - Add some audio and video, and other things to show off skills
     - More?
